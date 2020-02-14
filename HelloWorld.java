@@ -2,7 +2,7 @@
  *
  * @author Justin Thomas
  */
-// "CS 310"
+
 public class HelloWorld {
 
     public static void main(String[] args) {
